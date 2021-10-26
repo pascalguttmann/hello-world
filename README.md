@@ -1,2 +1,4 @@
 # hello-world
-test repo
+
+Hi there!\
+Welcome to my GitHub.
